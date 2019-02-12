@@ -20,6 +20,6 @@ More info: https://en.wikipedia.org/wiki/Tower_of_Hanoi
 
 ![alt text](https://i0.wp.com/spiderlabweb.com/wp-content/uploads/2017/03/TowerOfHanoi.png?fit=454%2C201&ssl=1)
 
-*Source: SpiderlaWeb*
+*Image source: SpiderlaWeb*
 
 
