@@ -9,7 +9,7 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 Only one disk can be moved at a time.
 Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an empty rod.
 No larger disk may be placed on top of a smaller disk.
-With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2n − 1, where n is the number of disks.
+With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves required to solve a Tower of Hanoi puzzle is 2<sup>n</sup> − 1, where n is the number of disks.
 
 More info: https://en.wikipedia.org/wiki/Tower_of_Hanoi
 
